@@ -535,7 +535,7 @@ var x = new X();
 
 - void
 - delete
-- instanceof
+- instanceof <<<<----Correct
 - typeof
 
 #### Q59. How does the forEach() method differ from a for statement?
@@ -557,5 +557,5 @@ new logThis();
 - undefined
 - function
 - windows
-- {desc: "logger"}
+- {desc: "logger"} <<<<----Correct
 
